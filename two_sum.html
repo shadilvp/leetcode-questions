@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <body>
+        <script>
+            let numbers = [1,2,3,4,5];
+            let find = 9 ;
+            let result = [] ;
+
+            for(let i = 0 ; i< numbers.length ; i ++){
+                for(let j = i + 1 ; j< numbers.length ; j ++){
+                    if ( numbers[i] + numbers[j] === find){
+                        result.push( [i , j]);
+                    }
+                }
+            };
+            console.log(result);
+            
+ 
+            
+        </script>
+    </body>
+</body>
+</html>
