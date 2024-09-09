@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <script>
+        // var removeDuplicates = function(nums) {
+        //     let k = [...new Set(nums)] ;
+        //     return k ;          
+        // };       
+        // console.log(removeDuplicates([1,1,2]));
+
+        var removeDuplicates = function(nums){
+            if (nums.length === 0) return 0;
+            let i = 0 ;
+            for(let j = 0 ; j < nums.length ; j ++){
+                if(nums[i] !== nums[j]){
+                    i ++ ;
+                    nums[i] = nums[j]
+                }
+            }
+            return i+1;
+        }
+        let nums = [1,1,2];
+        let k = removeDuplicates(nums);
+        console.log(nums.slice(0,k));
+        
+        
+        
+        
+        
+
+    </script>
+</body>
+</html>
