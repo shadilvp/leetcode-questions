@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <script>
+var isPalindrome = function(x) {
+    let tostr = String(x).split('');
+    let rev = tostr.reverse();
+    let final = rev.join('');
+    if(String(x) === final){
+        return true ;
+    }else{
+        return false ;
+    };
+};
+        
+          
+        // function palindrome(nums) {
+        //     let org = [...nums];
+        //     let rev = nums.reverse();
+        //     if(org.join('') === rev.join('')){
+        //         return ("it is an palindrome");
+        //     }else{
+        //         return ("it is not an palindrome");   
+        //     };
+
+        // };
+
+        // let numbers = [1,1];
+        // let result = palindrome(numbers);
+        // console.log(result);
+        
+        // function using_string(str) {
+        //     let newstr =str.split('');
+        //     let rev = newstr.reverse();
+        //     let join = rev.join('');
+        //     if (str == join) {
+        //         return "it is an palindrome"
+        //     }else{
+        //         return "it is not an palindrome"
+        //     };
+        // };
+
+        // let string = "aba" ;
+
+        // let result = using_string(string);
+        // console.log(result);
+        
+
+
+
+        
+    </script>
+</body>
+</html>
