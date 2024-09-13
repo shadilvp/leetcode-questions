@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <script>
+    var toarr = function(s) {
+         let result = s.trim().split(' ');
+         console.log(result);
+         
+         if(result.length > 0 ){
+            return result[result.length-1].length ;
+         }else{
+            return 0 ;
+         }
+    };
+
+    let res = toarr("hello world");
+    console.log(res);
+
+
+//     let str = "shadil muhammed";
+
+//     function myfun(x){
+//         let words = x.split(' ');
+
+//         console.log(words);
+        
+//     }
+
+// myfun(str)
+
+
+    
+
+// Input: s = "Hello World" 
+// Output: 5 
+// Explanation: The last word is "World" with length 5. 
+    </script>
+</body>
+</html>

@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <script>
+
+// var removeElement = function(nums, val) {
+//     val = 3 ;
+//     const k = nums.filter((x) =>{
+//         if(x !== val){
+//             return x
+//         }else{
+//             return 0 ;
+//         }
+//     })
+//     const sorted = k.sort((a,b)=>a-b)
+//     return sorted ;
+// };
+
+// let result = removeElement([1,2,3,4,3,2]);
+// console.log(result);
+
+//without using built in methods 
+
+var removeElement = function(nums, val){
+    k = 0 ;
+    for(let i = 0 ; i< nums.length ; i ++){
+        if(nums[i] !== val){
+            nums[k] = nums[i] ;
+            k ++ ;
+        }
+    }
+    return k ;
+}
+let nums = [1,2,2,3,4,5,3];
+let val = 2 ;
+let result = removeElement(nums,val)
+console.log(result);
+console.log(nums.slice(0, result));
+
+
+
+
+    </script>
+</body>
+</html>

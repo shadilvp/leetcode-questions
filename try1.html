@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+
+<body>
+    <script>
+         function myfun(arr,str){
+            let initial = [];
+            for(let i=0 ; i<arr.length ; i ++){
+                if(arr[i].includes(str)){
+                    initial.push(i)
+                }
+            }
+            return initial
+         }
+        let words = ["leet", "code"]
+        let x = "e";
+        console.log(myfun(words, x));
+        
+        
+
+
+    </script>
+</body>
+
+</html>
