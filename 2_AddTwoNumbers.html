@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <script>
+    var addTwoNumbers = function(l1, l2) {
+
+        let a = Number(l1.join('').split('').reverse().join(''));
+        let b = Number(l2.join('').split('').reverse().join(''));
+
+        let res = a + b ;
+        let ans = res.toString().split('').reverse().map(Number);
+        console.log(ans);
+        
+    };
+    addTwoNumbers([2,4,3],[5,6,4]);
+    
+    
+    </script>
+</body>
+</html>

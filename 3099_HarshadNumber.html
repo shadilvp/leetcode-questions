@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <script>
+        var sumOfTheDigitsOfHarshadNumber = function(x) {
+    let a = (x + '').split('').map((a)=> parseInt(a))
+    let b = a.reduce((a,b)=> a+b , 0)
+    if(x % b == 0 ){
+        return b ;
+    }else{
+        return -1 ;
+    }
+    
+
+};
+    </script>
+</body>
+</html>

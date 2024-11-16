@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <script>
+        var singleNumber = function(nums) {
+ let unique = new Set() ;
+for(const num of nums){
+    if(unique.has(num)){
+        unique.delete(num)
+    }else{
+        unique.add(num)
+    }
+} 
+
+return [...unique][0]
+    
+};
+    </script>
+</body>
+</html>
