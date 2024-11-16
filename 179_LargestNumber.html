@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <!DOCTYPE html>
 <html lang="en">
 
@@ -32,4 +33,40 @@ console.log(largestNumber(input));
     </script>
 </body>
 
+=======
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+
+<body>
+    <script>
+        
+    var largestNumber = function(nums) {
+        let sort = nums.sort((a,b)=> {
+            let res1 = ''+a+b;
+            let res2 = ''+b+a;
+
+            return res1.localeCompare(res2)
+        })
+        if(sort[0]=== 0){
+            return "0" ;
+        }
+        return sort ;
+    };
+    let input = [3,30,34,5,9];
+
+console.log(largestNumber(input));
+
+    
+
+
+    </script>
+</body>
+
+>>>>>>> e066d12ad74bc0e73f095deacc9b518f48ddfff9
 </html>
