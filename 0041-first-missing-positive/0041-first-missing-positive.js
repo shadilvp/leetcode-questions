@@ -4,8 +4,8 @@
  */
 var firstMissingPositive = function(nums) {
     
-    let hell = nums.filter((nums)=> nums > 0).sort((a,b)=> a - b)
-    let obj = new Set(hell)
+    let filteredArr = nums.filter((nums)=> nums > 0).sort((a,b)=> a - b)
+    let obj = new Set(filteredArr)
     let alt = [...obj]
     if(alt[0] !== 1){
         return 1
