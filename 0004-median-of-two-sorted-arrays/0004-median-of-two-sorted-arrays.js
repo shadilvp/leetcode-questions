@@ -8,13 +8,9 @@ var findMedianSortedArrays = function(nums1, nums2) {
     if(arr.length % 2 === 0){
         let cntr1 = Math.floor(arr.length/2)-1
         let cntr2 = Math.floor(arr.length/2)
-        let center = (arr[cntr1] + arr[cntr2])/2
-        return center
+        return (arr[cntr1] + arr[cntr2])/2
     }
     else{
-        let cntr = Math.floor(arr.length/2)
-        let center = parseFloat(arr[cntr])
-        return center
-    }
-
-};
+        return parseFloat(arr[Math.floor(arr.length/2)])
+    } 
+}; 
