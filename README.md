@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/shadilvp/leetcode-questions/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1603-running-sum-of-1d-array](https://github.com/shadilvp/leetcode-questions/tree/master/1603-running-sum-of-1d-array) |
 | [1791-richest-customer-wealth](https://github.com/shadilvp/leetcode-questions/tree/master/1791-richest-customer-wealth) |
+| [2159-two-out-of-three](https://github.com/shadilvp/leetcode-questions/tree/master/2159-two-out-of-three) |
 | [2423-minimum-deletions-to-make-array-divisible](https://github.com/shadilvp/leetcode-questions/tree/master/2423-minimum-deletions-to-make-array-divisible) |
 | [3227-find-missing-and-repeated-values](https://github.com/shadilvp/leetcode-questions/tree/master/3227-find-missing-and-repeated-values) |
 ## Math
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/shadilvp/leetcode-questions/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/shadilvp/leetcode-questions/tree/master/0349-intersection-of-two-arrays) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/shadilvp/leetcode-questions/tree/master/1960-check-if-the-sentence-is-pangram) |
+| [2159-two-out-of-three](https://github.com/shadilvp/leetcode-questions/tree/master/2159-two-out-of-three) |
 | [3227-find-missing-and-repeated-values](https://github.com/shadilvp/leetcode-questions/tree/master/3227-find-missing-and-repeated-values) |
 ## String
 |  |
@@ -84,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/shadilvp/leetcode-questions/tree/master/0268-missing-number) |
+| [2159-two-out-of-three](https://github.com/shadilvp/leetcode-questions/tree/master/2159-two-out-of-three) |
 ## Divide and Conquer
 |  |
 | ------- |
