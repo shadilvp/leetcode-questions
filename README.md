@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/shadilvp/leetcode-questions/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1603-running-sum-of-1d-array](https://github.com/shadilvp/leetcode-questions/tree/master/1603-running-sum-of-1d-array) |
 | [1791-richest-customer-wealth](https://github.com/shadilvp/leetcode-questions/tree/master/1791-richest-customer-wealth) |
+| [1899-count-items-matching-a-rule](https://github.com/shadilvp/leetcode-questions/tree/master/1899-count-items-matching-a-rule) |
 | [2159-two-out-of-three](https://github.com/shadilvp/leetcode-questions/tree/master/2159-two-out-of-three) |
 | [2423-minimum-deletions-to-make-array-divisible](https://github.com/shadilvp/leetcode-questions/tree/master/2423-minimum-deletions-to-make-array-divisible) |
 | [2767-maximum-sum-with-exactly-k-elements](https://github.com/shadilvp/leetcode-questions/tree/master/2767-maximum-sum-with-exactly-k-elements) |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/shadilvp/leetcode-questions/tree/master/1302-delete-characters-to-make-fancy-string) |
+| [1899-count-items-matching-a-rule](https://github.com/shadilvp/leetcode-questions/tree/master/1899-count-items-matching-a-rule) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/shadilvp/leetcode-questions/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [2427-first-letter-to-appear-twice](https://github.com/shadilvp/leetcode-questions/tree/master/2427-first-letter-to-appear-twice) |
 ## Two Pointers
