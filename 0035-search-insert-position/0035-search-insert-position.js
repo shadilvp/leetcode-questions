@@ -9,7 +9,6 @@ var searchInsert = function(nums, target) {
             return i
         }else if(nums[i]>target){
             return i
-           
         }
     }
      return nums.length
