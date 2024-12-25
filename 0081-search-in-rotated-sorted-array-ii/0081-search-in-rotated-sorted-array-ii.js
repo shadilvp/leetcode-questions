@@ -4,8 +4,8 @@
  * @return {boolean}
  */
 var search = function(nums, target) {
-    for(let i = 0 ; i <=nums.length; i++){
-        if(nums[i] == target){
+    for(let num of nums){
+        if(num == target){
             return true;
         }
     }
