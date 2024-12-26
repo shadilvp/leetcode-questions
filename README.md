@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0041-first-missing-positive](https://github.com/shadilvp/leetcode-questions/tree/master/0041-first-missing-positive) |
 | [0268-missing-number](https://github.com/shadilvp/leetcode-questions/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/shadilvp/leetcode-questions/tree/master/0349-intersection-of-two-arrays) |
+| [0387-first-unique-character-in-a-string](https://github.com/shadilvp/leetcode-questions/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/shadilvp/leetcode-questions/tree/master/0389-find-the-difference) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/shadilvp/leetcode-questions/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [2159-two-out-of-three](https://github.com/shadilvp/leetcode-questions/tree/master/2159-two-out-of-three) |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/shadilvp/leetcode-questions/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/shadilvp/leetcode-questions/tree/master/0389-find-the-difference) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/shadilvp/leetcode-questions/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1899-count-items-matching-a-rule](https://github.com/shadilvp/leetcode-questions/tree/master/1899-count-items-matching-a-rule) |
@@ -113,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/shadilvp/leetcode-questions/tree/master/0387-first-unique-character-in-a-string) |
 | [2427-first-letter-to-appear-twice](https://github.com/shadilvp/leetcode-questions/tree/master/2427-first-letter-to-appear-twice) |
 ## Dynamic Programming
 |  |
@@ -122,4 +125,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1488-sort-integers-by-the-power-value](https://github.com/shadilvp/leetcode-questions/tree/master/1488-sort-integers-by-the-power-value) |
+## Queue
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/shadilvp/leetcode-questions/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
