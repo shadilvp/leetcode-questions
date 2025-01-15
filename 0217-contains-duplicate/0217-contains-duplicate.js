@@ -11,8 +11,5 @@ var containsDuplicate = function(nums) {
         }
         duplicate.add(num)
     }
-    if(checking === 0){
-        return false
-    }
-    return true
+    return checking== 0 ?false :true
 };
