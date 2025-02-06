@@ -9,6 +9,6 @@ var isPalindrome = function(x) {
     if(String(x) === final){
         return true ;
     }else{
-        return false ;
+        return false;
     };
 };
