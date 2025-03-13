@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1329-minimum-cost-to-move-chips-to-the-same-position](https://github.com/shadilvp/leetcode-questions/tree/master/1329-minimum-cost-to-move-chips-to-the-same-position) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/shadilvp/leetcode-questions/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1603-running-sum-of-1d-array](https://github.com/shadilvp/leetcode-questions/tree/master/1603-running-sum-of-1d-array) |
+| [1781-check-if-two-string-arrays-are-equivalent](https://github.com/shadilvp/leetcode-questions/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1791-richest-customer-wealth](https://github.com/shadilvp/leetcode-questions/tree/master/1791-richest-customer-wealth) |
 | [1899-count-items-matching-a-rule](https://github.com/shadilvp/leetcode-questions/tree/master/1899-count-items-matching-a-rule) |
 | [2159-two-out-of-three](https://github.com/shadilvp/leetcode-questions/tree/master/2159-two-out-of-three) |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/shadilvp/leetcode-questions/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/shadilvp/leetcode-questions/tree/master/0389-find-the-difference) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/shadilvp/leetcode-questions/tree/master/1302-delete-characters-to-make-fancy-string) |
+| [1781-check-if-two-string-arrays-are-equivalent](https://github.com/shadilvp/leetcode-questions/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1899-count-items-matching-a-rule](https://github.com/shadilvp/leetcode-questions/tree/master/1899-count-items-matching-a-rule) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/shadilvp/leetcode-questions/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [2365-percentage-of-letter-in-string](https://github.com/shadilvp/leetcode-questions/tree/master/2365-percentage-of-letter-in-string) |
