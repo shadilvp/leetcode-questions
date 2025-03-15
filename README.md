@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1791-richest-customer-wealth](https://github.com/shadilvp/leetcode-questions/tree/master/1791-richest-customer-wealth) |
 | [1899-count-items-matching-a-rule](https://github.com/shadilvp/leetcode-questions/tree/master/1899-count-items-matching-a-rule) |
 | [2159-two-out-of-three](https://github.com/shadilvp/leetcode-questions/tree/master/2159-two-out-of-three) |
+| [2219-maximum-number-of-words-found-in-sentences](https://github.com/shadilvp/leetcode-questions/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 | [2423-minimum-deletions-to-make-array-divisible](https://github.com/shadilvp/leetcode-questions/tree/master/2423-minimum-deletions-to-make-array-divisible) |
 | [2767-maximum-sum-with-exactly-k-elements](https://github.com/shadilvp/leetcode-questions/tree/master/2767-maximum-sum-with-exactly-k-elements) |
 | [3227-find-missing-and-repeated-values](https://github.com/shadilvp/leetcode-questions/tree/master/3227-find-missing-and-repeated-values) |
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/shadilvp/leetcode-questions/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1899-count-items-matching-a-rule](https://github.com/shadilvp/leetcode-questions/tree/master/1899-count-items-matching-a-rule) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/shadilvp/leetcode-questions/tree/master/1960-check-if-the-sentence-is-pangram) |
+| [2219-maximum-number-of-words-found-in-sentences](https://github.com/shadilvp/leetcode-questions/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 | [2365-percentage-of-letter-in-string](https://github.com/shadilvp/leetcode-questions/tree/master/2365-percentage-of-letter-in-string) |
 | [2427-first-letter-to-appear-twice](https://github.com/shadilvp/leetcode-questions/tree/master/2427-first-letter-to-appear-twice) |
 | [3412-permutation-difference-between-two-strings](https://github.com/shadilvp/leetcode-questions/tree/master/3412-permutation-difference-between-two-strings) |
