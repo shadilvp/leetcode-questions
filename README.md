@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/shadilvp/leetcode-questions/tree/master/0009-palindrome-number) |
+| [0029-divide-two-integers](https://github.com/shadilvp/leetcode-questions/tree/master/0029-divide-two-integers) |
 | [0050-powx-n](https://github.com/shadilvp/leetcode-questions/tree/master/0050-powx-n) |
 | [0172-factorial-trailing-zeroes](https://github.com/shadilvp/leetcode-questions/tree/master/0172-factorial-trailing-zeroes) |
 | [0189-rotate-array](https://github.com/shadilvp/leetcode-questions/tree/master/0189-rotate-array) |
@@ -161,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/shadilvp/leetcode-questions/tree/master/0029-divide-two-integers) |
 | [0260-single-number-iii](https://github.com/shadilvp/leetcode-questions/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/shadilvp/leetcode-questions/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/shadilvp/leetcode-questions/tree/master/0287-find-the-duplicate-number) |
