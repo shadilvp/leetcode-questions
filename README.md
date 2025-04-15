@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/shadilvp/leetcode-questions/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/shadilvp/leetcode-questions/tree/master/0349-intersection-of-two-arrays) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/shadilvp/leetcode-questions/tree/master/0453-minimum-moves-to-equal-array-elements) |
+| [0682-baseball-game](https://github.com/shadilvp/leetcode-questions/tree/master/0682-baseball-game) |
 | [0932-monotonic-array](https://github.com/shadilvp/leetcode-questions/tree/master/0932-monotonic-array) |
 | [1031-add-to-array-form-of-integer](https://github.com/shadilvp/leetcode-questions/tree/master/1031-add-to-array-form-of-integer) |
 | [1241-decompress-run-length-encoded-list](https://github.com/shadilvp/leetcode-questions/tree/master/1241-decompress-run-length-encoded-list) |
@@ -168,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0682-baseball-game](https://github.com/shadilvp/leetcode-questions/tree/master/0682-baseball-game) |
 | [1806-count-of-matches-in-tournament](https://github.com/shadilvp/leetcode-questions/tree/master/1806-count-of-matches-in-tournament) |
 ## Bit Manipulation
 |  |
@@ -223,4 +225,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/shadilvp/leetcode-questions/tree/master/0347-top-k-frequent-elements) |
+## Stack
+|  |
+| ------- |
+| [0682-baseball-game](https://github.com/shadilvp/leetcode-questions/tree/master/0682-baseball-game) |
 <!---LeetCode Topics End-->
