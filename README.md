@@ -99,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0345-reverse-vowels-of-a-string](https://github.com/shadilvp/leetcode-questions/tree/master/0345-reverse-vowels-of-a-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/shadilvp/leetcode-questions/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/shadilvp/leetcode-questions/tree/master/0389-find-the-difference) |
+| [0657-robot-return-to-origin](https://github.com/shadilvp/leetcode-questions/tree/master/0657-robot-return-to-origin) |
 | [0742-to-lower-case](https://github.com/shadilvp/leetcode-questions/tree/master/0742-to-lower-case) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/shadilvp/leetcode-questions/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/shadilvp/leetcode-questions/tree/master/1302-delete-characters-to-make-fancy-string) |
@@ -169,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0657-robot-return-to-origin](https://github.com/shadilvp/leetcode-questions/tree/master/0657-robot-return-to-origin) |
 | [0682-baseball-game](https://github.com/shadilvp/leetcode-questions/tree/master/0682-baseball-game) |
 | [1806-count-of-matches-in-tournament](https://github.com/shadilvp/leetcode-questions/tree/master/1806-count-of-matches-in-tournament) |
 ## Bit Manipulation
