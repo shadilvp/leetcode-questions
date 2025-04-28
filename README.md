@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/shadilvp/leetcode-questions/tree/master/0009-palindrome-number) |
+| [0013-roman-to-integer](https://github.com/shadilvp/leetcode-questions/tree/master/0013-roman-to-integer) |
 | [0029-divide-two-integers](https://github.com/shadilvp/leetcode-questions/tree/master/0029-divide-two-integers) |
 | [0050-powx-n](https://github.com/shadilvp/leetcode-questions/tree/master/0050-powx-n) |
 | [0172-factorial-trailing-zeroes](https://github.com/shadilvp/leetcode-questions/tree/master/0172-factorial-trailing-zeroes) |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/shadilvp/leetcode-questions/tree/master/0001-two-sum) |
+| [0013-roman-to-integer](https://github.com/shadilvp/leetcode-questions/tree/master/0013-roman-to-integer) |
 | [0041-first-missing-positive](https://github.com/shadilvp/leetcode-questions/tree/master/0041-first-missing-positive) |
 | [0169-majority-element](https://github.com/shadilvp/leetcode-questions/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/shadilvp/leetcode-questions/tree/master/0205-isomorphic-strings) |
@@ -99,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/shadilvp/leetcode-questions/tree/master/0013-roman-to-integer) |
 | [0205-isomorphic-strings](https://github.com/shadilvp/leetcode-questions/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/shadilvp/leetcode-questions/tree/master/0242-valid-anagram) |
 | [0345-reverse-vowels-of-a-string](https://github.com/shadilvp/leetcode-questions/tree/master/0345-reverse-vowels-of-a-string) |
