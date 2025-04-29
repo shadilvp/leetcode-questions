@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/shadilvp/leetcode-questions/tree/master/0050-powx-n) |
 | [0172-factorial-trailing-zeroes](https://github.com/shadilvp/leetcode-questions/tree/master/0172-factorial-trailing-zeroes) |
 | [0189-rotate-array](https://github.com/shadilvp/leetcode-questions/tree/master/0189-rotate-array) |
+| [0233-number-of-digit-one](https://github.com/shadilvp/leetcode-questions/tree/master/0233-number-of-digit-one) |
 | [0263-ugly-number](https://github.com/shadilvp/leetcode-questions/tree/master/0263-ugly-number) |
 | [0268-missing-number](https://github.com/shadilvp/leetcode-questions/tree/master/0268-missing-number) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/shadilvp/leetcode-questions/tree/master/0453-minimum-moves-to-equal-array-elements) |
@@ -213,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0233-number-of-digit-one](https://github.com/shadilvp/leetcode-questions/tree/master/0233-number-of-digit-one) |
 | [1488-sort-integers-by-the-power-value](https://github.com/shadilvp/leetcode-questions/tree/master/1488-sort-integers-by-the-power-value) |
 ## Memoization
 |  |
@@ -226,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/shadilvp/leetcode-questions/tree/master/0050-powx-n) |
+| [0233-number-of-digit-one](https://github.com/shadilvp/leetcode-questions/tree/master/0233-number-of-digit-one) |
 ## Counting Sort
 |  |
 | ------- |
