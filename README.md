@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/shadilvp/leetcode-questions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0035-search-insert-position](https://github.com/shadilvp/leetcode-questions/tree/master/0035-search-insert-position) |
 | [0041-first-missing-positive](https://github.com/shadilvp/leetcode-questions/tree/master/0041-first-missing-positive) |
+| [0055-jump-game](https://github.com/shadilvp/leetcode-questions/tree/master/0055-jump-game) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/shadilvp/leetcode-questions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/shadilvp/leetcode-questions/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/shadilvp/leetcode-questions/tree/master/0088-merge-sorted-array) |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/shadilvp/leetcode-questions/tree/master/0055-jump-game) |
 | [1329-minimum-cost-to-move-chips-to-the-same-position](https://github.com/shadilvp/leetcode-questions/tree/master/1329-minimum-cost-to-move-chips-to-the-same-position) |
 | [2767-maximum-sum-with-exactly-k-elements](https://github.com/shadilvp/leetcode-questions/tree/master/2767-maximum-sum-with-exactly-k-elements) |
 ## Hash Table
@@ -221,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/shadilvp/leetcode-questions/tree/master/0055-jump-game) |
 | [0233-number-of-digit-one](https://github.com/shadilvp/leetcode-questions/tree/master/0233-number-of-digit-one) |
 | [1488-sort-integers-by-the-power-value](https://github.com/shadilvp/leetcode-questions/tree/master/1488-sort-integers-by-the-power-value) |
 ## Memoization
