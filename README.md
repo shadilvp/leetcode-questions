@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/shadilvp/leetcode-questions/tree/master/0013-roman-to-integer) |
 | [0029-divide-two-integers](https://github.com/shadilvp/leetcode-questions/tree/master/0029-divide-two-integers) |
 | [0050-powx-n](https://github.com/shadilvp/leetcode-questions/tree/master/0050-powx-n) |
+| [0070-climbing-stairs](https://github.com/shadilvp/leetcode-questions/tree/master/0070-climbing-stairs) |
 | [0172-factorial-trailing-zeroes](https://github.com/shadilvp/leetcode-questions/tree/master/0172-factorial-trailing-zeroes) |
 | [0189-rotate-array](https://github.com/shadilvp/leetcode-questions/tree/master/0189-rotate-array) |
 | [0233-number-of-digit-one](https://github.com/shadilvp/leetcode-questions/tree/master/0233-number-of-digit-one) |
@@ -227,11 +228,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0055-jump-game](https://github.com/shadilvp/leetcode-questions/tree/master/0055-jump-game) |
+| [0070-climbing-stairs](https://github.com/shadilvp/leetcode-questions/tree/master/0070-climbing-stairs) |
 | [0233-number-of-digit-one](https://github.com/shadilvp/leetcode-questions/tree/master/0233-number-of-digit-one) |
 | [1488-sort-integers-by-the-power-value](https://github.com/shadilvp/leetcode-questions/tree/master/1488-sort-integers-by-the-power-value) |
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/shadilvp/leetcode-questions/tree/master/0070-climbing-stairs) |
 | [1488-sort-integers-by-the-power-value](https://github.com/shadilvp/leetcode-questions/tree/master/1488-sort-integers-by-the-power-value) |
 ## Queue
 |  |
