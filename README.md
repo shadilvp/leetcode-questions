@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2491-smallest-even-multiple](https://github.com/shadilvp/leetcode-questions/tree/master/2491-smallest-even-multiple) |
 | [2556-convert-the-temperature](https://github.com/shadilvp/leetcode-questions/tree/master/2556-convert-the-temperature) |
 | [3227-find-missing-and-repeated-values](https://github.com/shadilvp/leetcode-questions/tree/master/3227-find-missing-and-repeated-values) |
+| [3859-maximum-product-of-two-digits](https://github.com/shadilvp/leetcode-questions/tree/master/3859-maximum-product-of-two-digits) |
 ## Greedy
 |  |
 | ------- |
@@ -170,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1488-sort-integers-by-the-power-value](https://github.com/shadilvp/leetcode-questions/tree/master/1488-sort-integers-by-the-power-value) |
 | [1584-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/shadilvp/leetcode-questions/tree/master/1584-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [2423-minimum-deletions-to-make-array-divisible](https://github.com/shadilvp/leetcode-questions/tree/master/2423-minimum-deletions-to-make-array-divisible) |
+| [3859-maximum-product-of-two-digits](https://github.com/shadilvp/leetcode-questions/tree/master/3859-maximum-product-of-two-digits) |
 ## Matrix
 |  |
 | ------- |
