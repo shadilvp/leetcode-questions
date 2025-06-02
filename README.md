@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1584-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/shadilvp/leetcode-questions/tree/master/1584-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [1603-running-sum-of-1d-array](https://github.com/shadilvp/leetcode-questions/tree/master/1603-running-sum-of-1d-array) |
 | [1651-shuffle-string](https://github.com/shadilvp/leetcode-questions/tree/master/1651-shuffle-string) |
+| [1741-sort-array-by-increasing-frequency](https://github.com/shadilvp/leetcode-questions/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/shadilvp/leetcode-questions/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1791-richest-customer-wealth](https://github.com/shadilvp/leetcode-questions/tree/master/1791-richest-customer-wealth) |
 | [1899-count-items-matching-a-rule](https://github.com/shadilvp/leetcode-questions/tree/master/1899-count-items-matching-a-rule) |
@@ -101,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/shadilvp/leetcode-questions/tree/master/0389-find-the-difference) |
 | [0451-sort-characters-by-frequency](https://github.com/shadilvp/leetcode-questions/tree/master/0451-sort-characters-by-frequency) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/shadilvp/leetcode-questions/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
+| [1741-sort-array-by-increasing-frequency](https://github.com/shadilvp/leetcode-questions/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/shadilvp/leetcode-questions/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [2159-two-out-of-three](https://github.com/shadilvp/leetcode-questions/tree/master/2159-two-out-of-three) |
 | [2427-first-letter-to-appear-twice](https://github.com/shadilvp/leetcode-questions/tree/master/2427-first-letter-to-appear-twice) |
@@ -173,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/shadilvp/leetcode-questions/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1488-sort-integers-by-the-power-value](https://github.com/shadilvp/leetcode-questions/tree/master/1488-sort-integers-by-the-power-value) |
 | [1584-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/shadilvp/leetcode-questions/tree/master/1584-average-salary-excluding-the-minimum-and-maximum-salary) |
+| [1741-sort-array-by-increasing-frequency](https://github.com/shadilvp/leetcode-questions/tree/master/1741-sort-array-by-increasing-frequency) |
 | [2423-minimum-deletions-to-make-array-divisible](https://github.com/shadilvp/leetcode-questions/tree/master/2423-minimum-deletions-to-make-array-divisible) |
 | [3859-maximum-product-of-two-digits](https://github.com/shadilvp/leetcode-questions/tree/master/3859-maximum-product-of-two-digits) |
 ## Matrix
