@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2491-smallest-even-multiple](https://github.com/shadilvp/leetcode-questions/tree/master/2491-smallest-even-multiple) |
 | [2556-convert-the-temperature](https://github.com/shadilvp/leetcode-questions/tree/master/2556-convert-the-temperature) |
 | [3227-find-missing-and-repeated-values](https://github.com/shadilvp/leetcode-questions/tree/master/3227-find-missing-and-repeated-values) |
+| [3567-convert-date-to-binary](https://github.com/shadilvp/leetcode-questions/tree/master/3567-convert-date-to-binary) |
 | [3859-maximum-product-of-two-digits](https://github.com/shadilvp/leetcode-questions/tree/master/3859-maximum-product-of-two-digits) |
 ## Greedy
 |  |
@@ -134,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2365-percentage-of-letter-in-string](https://github.com/shadilvp/leetcode-questions/tree/master/2365-percentage-of-letter-in-string) |
 | [2427-first-letter-to-appear-twice](https://github.com/shadilvp/leetcode-questions/tree/master/2427-first-letter-to-appear-twice) |
 | [3412-permutation-difference-between-two-strings](https://github.com/shadilvp/leetcode-questions/tree/master/3412-permutation-difference-between-two-strings) |
+| [3567-convert-date-to-binary](https://github.com/shadilvp/leetcode-questions/tree/master/3567-convert-date-to-binary) |
 ## Two Pointers
 |  |
 | ------- |
