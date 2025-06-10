@@ -102,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/shadilvp/leetcode-questions/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/shadilvp/leetcode-questions/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/shadilvp/leetcode-questions/tree/master/0349-intersection-of-two-arrays) |
+| [0383-ransom-note](https://github.com/shadilvp/leetcode-questions/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/shadilvp/leetcode-questions/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/shadilvp/leetcode-questions/tree/master/0389-find-the-difference) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/shadilvp/leetcode-questions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -122,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/shadilvp/leetcode-questions/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/shadilvp/leetcode-questions/tree/master/0242-valid-anagram) |
 | [0345-reverse-vowels-of-a-string](https://github.com/shadilvp/leetcode-questions/tree/master/0345-reverse-vowels-of-a-string) |
+| [0383-ransom-note](https://github.com/shadilvp/leetcode-questions/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/shadilvp/leetcode-questions/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/shadilvp/leetcode-questions/tree/master/0389-find-the-difference) |
 | [0434-number-of-segments-in-a-string](https://github.com/shadilvp/leetcode-questions/tree/master/0434-number-of-segments-in-a-string) |
@@ -240,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/shadilvp/leetcode-questions/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/shadilvp/leetcode-questions/tree/master/0229-majority-element-ii) |
 | [0347-top-k-frequent-elements](https://github.com/shadilvp/leetcode-questions/tree/master/0347-top-k-frequent-elements) |
+| [0383-ransom-note](https://github.com/shadilvp/leetcode-questions/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/shadilvp/leetcode-questions/tree/master/0387-first-unique-character-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/shadilvp/leetcode-questions/tree/master/0451-sort-characters-by-frequency) |
 | [2427-first-letter-to-appear-twice](https://github.com/shadilvp/leetcode-questions/tree/master/2427-first-letter-to-appear-twice) |
