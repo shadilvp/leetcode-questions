@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1950-sign-of-the-product-of-an-array](https://github.com/shadilvp/leetcode-questions/tree/master/1950-sign-of-the-product-of-an-array) |
 | [2048-build-array-from-permutation](https://github.com/shadilvp/leetcode-questions/tree/master/2048-build-array-from-permutation) |
 | [2159-two-out-of-three](https://github.com/shadilvp/leetcode-questions/tree/master/2159-two-out-of-three) |
+| [2210-find-target-indices-after-sorting-array](https://github.com/shadilvp/leetcode-questions/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/shadilvp/leetcode-questions/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 | [2423-minimum-deletions-to-make-array-divisible](https://github.com/shadilvp/leetcode-questions/tree/master/2423-minimum-deletions-to-make-array-divisible) |
 | [2767-maximum-sum-with-exactly-k-elements](https://github.com/shadilvp/leetcode-questions/tree/master/2767-maximum-sum-with-exactly-k-elements) |
@@ -171,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/shadilvp/leetcode-questions/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/shadilvp/leetcode-questions/tree/master/0349-intersection-of-two-arrays) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/shadilvp/leetcode-questions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [2210-find-target-indices-after-sorting-array](https://github.com/shadilvp/leetcode-questions/tree/master/2210-find-target-indices-after-sorting-array) |
 ## Sorting
 |  |
 | ------- |
@@ -189,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1488-sort-integers-by-the-power-value](https://github.com/shadilvp/leetcode-questions/tree/master/1488-sort-integers-by-the-power-value) |
 | [1584-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/shadilvp/leetcode-questions/tree/master/1584-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/shadilvp/leetcode-questions/tree/master/1741-sort-array-by-increasing-frequency) |
+| [2210-find-target-indices-after-sorting-array](https://github.com/shadilvp/leetcode-questions/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2423-minimum-deletions-to-make-array-divisible](https://github.com/shadilvp/leetcode-questions/tree/master/2423-minimum-deletions-to-make-array-divisible) |
 | [3859-maximum-product-of-two-digits](https://github.com/shadilvp/leetcode-questions/tree/master/3859-maximum-product-of-two-digits) |
 ## Matrix
