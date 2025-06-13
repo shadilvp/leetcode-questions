@@ -136,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0657-robot-return-to-origin](https://github.com/shadilvp/leetcode-questions/tree/master/0657-robot-return-to-origin) |
 | [0742-to-lower-case](https://github.com/shadilvp/leetcode-questions/tree/master/0742-to-lower-case) |
 | [0837-most-common-word](https://github.com/shadilvp/leetcode-questions/tree/master/0837-most-common-word) |
+| [0874-backspace-string-compare](https://github.com/shadilvp/leetcode-questions/tree/master/0874-backspace-string-compare) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/shadilvp/leetcode-questions/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/shadilvp/leetcode-questions/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1651-shuffle-string](https://github.com/shadilvp/leetcode-questions/tree/master/1651-shuffle-string) |
@@ -162,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0345-reverse-vowels-of-a-string](https://github.com/shadilvp/leetcode-questions/tree/master/0345-reverse-vowels-of-a-string) |
 | [0349-intersection-of-two-arrays](https://github.com/shadilvp/leetcode-questions/tree/master/0349-intersection-of-two-arrays) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/shadilvp/leetcode-questions/tree/master/0557-reverse-words-in-a-string-iii) |
+| [0874-backspace-string-compare](https://github.com/shadilvp/leetcode-questions/tree/master/0874-backspace-string-compare) |
 | [1894-merge-strings-alternately](https://github.com/shadilvp/leetcode-questions/tree/master/1894-merge-strings-alternately) |
 ## Binary Search
 |  |
@@ -224,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0657-robot-return-to-origin](https://github.com/shadilvp/leetcode-questions/tree/master/0657-robot-return-to-origin) |
 | [0682-baseball-game](https://github.com/shadilvp/leetcode-questions/tree/master/0682-baseball-game) |
+| [0874-backspace-string-compare](https://github.com/shadilvp/leetcode-questions/tree/master/0874-backspace-string-compare) |
 | [1806-count-of-matches-in-tournament](https://github.com/shadilvp/leetcode-questions/tree/master/1806-count-of-matches-in-tournament) |
 | [2048-build-array-from-permutation](https://github.com/shadilvp/leetcode-questions/tree/master/2048-build-array-from-permutation) |
 ## Bit Manipulation
@@ -294,4 +297,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0682-baseball-game](https://github.com/shadilvp/leetcode-questions/tree/master/0682-baseball-game) |
+| [0874-backspace-string-compare](https://github.com/shadilvp/leetcode-questions/tree/master/0874-backspace-string-compare) |
 <!---LeetCode Topics End-->
