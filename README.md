@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/shadilvp/leetcode-questions/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0682-baseball-game](https://github.com/shadilvp/leetcode-questions/tree/master/0682-baseball-game) |
 | [0837-most-common-word](https://github.com/shadilvp/leetcode-questions/tree/master/0837-most-common-word) |
+| [0890-lemonade-change](https://github.com/shadilvp/leetcode-questions/tree/master/0890-lemonade-change) |
 | [0932-monotonic-array](https://github.com/shadilvp/leetcode-questions/tree/master/0932-monotonic-array) |
 | [1031-add-to-array-form-of-integer](https://github.com/shadilvp/leetcode-questions/tree/master/1031-add-to-array-form-of-integer) |
 | [1241-decompress-run-length-encoded-list](https://github.com/shadilvp/leetcode-questions/tree/master/1241-decompress-run-length-encoded-list) |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0055-jump-game](https://github.com/shadilvp/leetcode-questions/tree/master/0055-jump-game) |
+| [0890-lemonade-change](https://github.com/shadilvp/leetcode-questions/tree/master/0890-lemonade-change) |
 | [1329-minimum-cost-to-move-chips-to-the-same-position](https://github.com/shadilvp/leetcode-questions/tree/master/1329-minimum-cost-to-move-chips-to-the-same-position) |
 | [2767-maximum-sum-with-exactly-k-elements](https://github.com/shadilvp/leetcode-questions/tree/master/2767-maximum-sum-with-exactly-k-elements) |
 ## Hash Table
