@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0837-most-common-word](https://github.com/shadilvp/leetcode-questions/tree/master/0837-most-common-word) |
 | [0890-lemonade-change](https://github.com/shadilvp/leetcode-questions/tree/master/0890-lemonade-change) |
 | [0932-monotonic-array](https://github.com/shadilvp/leetcode-questions/tree/master/0932-monotonic-array) |
+| [1001-n-repeated-element-in-size-2n-array](https://github.com/shadilvp/leetcode-questions/tree/master/1001-n-repeated-element-in-size-2n-array) |
 | [1031-add-to-array-form-of-integer](https://github.com/shadilvp/leetcode-questions/tree/master/1031-add-to-array-form-of-integer) |
 | [1241-decompress-run-length-encoded-list](https://github.com/shadilvp/leetcode-questions/tree/master/1241-decompress-run-length-encoded-list) |
 | [1329-minimum-cost-to-move-chips-to-the-same-position](https://github.com/shadilvp/leetcode-questions/tree/master/1329-minimum-cost-to-move-chips-to-the-same-position) |
@@ -113,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/shadilvp/leetcode-questions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/shadilvp/leetcode-questions/tree/master/0451-sort-characters-by-frequency) |
 | [0837-most-common-word](https://github.com/shadilvp/leetcode-questions/tree/master/0837-most-common-word) |
+| [1001-n-repeated-element-in-size-2n-array](https://github.com/shadilvp/leetcode-questions/tree/master/1001-n-repeated-element-in-size-2n-array) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/shadilvp/leetcode-questions/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/shadilvp/leetcode-questions/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/shadilvp/leetcode-questions/tree/master/1960-check-if-the-sentence-is-pangram) |
