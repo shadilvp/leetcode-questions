@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1329-minimum-cost-to-move-chips-to-the-same-position](https://github.com/shadilvp/leetcode-questions/tree/master/1329-minimum-cost-to-move-chips-to-the-same-position) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/shadilvp/leetcode-questions/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/shadilvp/leetcode-questions/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
+| [1510-find-lucky-integer-in-an-array](https://github.com/shadilvp/leetcode-questions/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/shadilvp/leetcode-questions/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1580-shuffle-the-array](https://github.com/shadilvp/leetcode-questions/tree/master/1580-shuffle-the-array) |
 | [1584-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/shadilvp/leetcode-questions/tree/master/1584-average-salary-excluding-the-minimum-and-maximum-salary) |
@@ -116,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0837-most-common-word](https://github.com/shadilvp/leetcode-questions/tree/master/0837-most-common-word) |
 | [1001-n-repeated-element-in-size-2n-array](https://github.com/shadilvp/leetcode-questions/tree/master/1001-n-repeated-element-in-size-2n-array) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/shadilvp/leetcode-questions/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
+| [1510-find-lucky-integer-in-an-array](https://github.com/shadilvp/leetcode-questions/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/shadilvp/leetcode-questions/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/shadilvp/leetcode-questions/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [2159-two-out-of-three](https://github.com/shadilvp/leetcode-questions/tree/master/2159-two-out-of-three) |
@@ -264,6 +266,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/shadilvp/leetcode-questions/tree/master/0387-first-unique-character-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/shadilvp/leetcode-questions/tree/master/0451-sort-characters-by-frequency) |
 | [0837-most-common-word](https://github.com/shadilvp/leetcode-questions/tree/master/0837-most-common-word) |
+| [1510-find-lucky-integer-in-an-array](https://github.com/shadilvp/leetcode-questions/tree/master/1510-find-lucky-integer-in-an-array) |
 | [2427-first-letter-to-appear-twice](https://github.com/shadilvp/leetcode-questions/tree/master/2427-first-letter-to-appear-twice) |
 ## Dynamic Programming
 |  |
