@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0326-power-of-three](https://github.com/shadilvp/leetcode-questions/tree/master/0326-power-of-three) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/shadilvp/leetcode-questions/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/shadilvp/leetcode-questions/tree/master/0453-minimum-moves-to-equal-array-elements) |
+| [0767-prime-number-of-set-bits-in-binary-representation](https://github.com/shadilvp/leetcode-questions/tree/master/0767-prime-number-of-set-bits-in-binary-representation) |
 | [1031-add-to-array-form-of-integer](https://github.com/shadilvp/leetcode-questions/tree/master/1031-add-to-array-form-of-integer) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/shadilvp/leetcode-questions/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1329-minimum-cost-to-move-chips-to-the-same-position](https://github.com/shadilvp/leetcode-questions/tree/master/1329-minimum-cost-to-move-chips-to-the-same-position) |
@@ -250,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/shadilvp/leetcode-questions/tree/master/0287-find-the-duplicate-number) |
 | [0389-find-the-difference](https://github.com/shadilvp/leetcode-questions/tree/master/0389-find-the-difference) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/shadilvp/leetcode-questions/tree/master/0405-convert-a-number-to-hexadecimal) |
+| [0767-prime-number-of-set-bits-in-binary-representation](https://github.com/shadilvp/leetcode-questions/tree/master/0767-prime-number-of-set-bits-in-binary-representation) |
 | [1054-complement-of-base-10-integer](https://github.com/shadilvp/leetcode-questions/tree/master/1054-complement-of-base-10-integer) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/shadilvp/leetcode-questions/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/shadilvp/leetcode-questions/tree/master/1786-count-the-number-of-consistent-strings) |
